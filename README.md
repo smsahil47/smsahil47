@@ -13,17 +13,37 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-EF6CFF?style=for-the-badge&logo=framer&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-10aa50?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🛠️ My Tech Stack
+
+#### 💻 Frontend Development
+- **Languages:**  
+  `HTML5`, `CSS3`, `JavaScript (ES6+)`
+
+- **Frameworks & Libraries:**  
+  `React.js`, `Vite`, `Tailwind CSS`, `Framer Motion`, `Lucide React`, `React Router DOM`, `SweetAlert2`
+
+- **Styling Tools:**  
+  `Tailwind CSS`, `Custom CSS`, `Glassmorphism`, `Responsive Design`, `CSS Animations`
+
+#### 🎨 UI/UX Design
+- **Design Tools:**  
+  `Figma` (Wireframing, Prototyping, Visual UI Design)
+
+- **Design Skills:**  
+  `Landing Page Design`, `Mobile-First & Responsive Layouts`,  
+  `Modern Visual Aesthetics`, `Typography & Spacing`,  
+  `Component-Based UI`, `User Flow Design`, `Visual Hierarchy`,  
+  `Consistency`, `Accessibility Best Practices`
+
+#### ⚙️ Tools & Workflow
+- **Code Editor:**  
+  `VS Code`
+
+- **Version Control & Dev Tools:**  
+  `Git`, `GitHub`, `npm`
+
+- **Deployment Platforms:**  
+  `Vercel`, `Netlify`, `GitHub Pages`
 
 ---
 
@@ -39,6 +59,7 @@
 Here are a few things I’ve built recently:
 
 - 🔧 **[EconoCooling HVAC Website](https://www.econocooling.co.in/)** — Company site with animated HVAC-themed UI, email & WhatsApp integration  
+- 🌐 **[My Portfolio Website](https://www.smsahil.site/)** — Showcasing my frontend & UI/UX work, built with React, Tailwind, and animations  
 
 
 > More coming soon... 💻✨
@@ -48,8 +69,8 @@ Here are a few things I’ve built recently:
 ### 🌍 Let’s Connect!
 <p>
   <a href="mailto:smsahil00971@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shaikh-mohammed-sahil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shaikh-sahil"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/smsahil47"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/smsahil47"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
