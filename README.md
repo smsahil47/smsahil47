@@ -13,37 +13,38 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-#### 💻 Frontend Development
-- **Languages:**  
-  `HTML5`, `CSS3`, `JavaScript (ES6+)`
+#### 💻 Frontend Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-EF6CFF?style=for-the-badge&logo=framer&logoColor=black" />
+</p>
 
-- **Frameworks & Libraries:**  
-  `React.js`, `Vite`, `Tailwind CSS`, `Framer Motion`, `Lucide React`, `React Router DOM`, `SweetAlert2`
+#### 🎨 UI/UX Design  
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-- **Styling Tools:**  
-  `Tailwind CSS`, `Custom CSS`, `Glassmorphism`, `Responsive Design`, `CSS Animations`
+#### 🧰 Tools & Workflow  
+<p align="left">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
-#### 🎨 UI/UX Design
-- **Design Tools:**  
-  `Figma` (Wireframing, Prototyping, Visual UI Design)
-
-- **Design Skills:**  
-  `Landing Page Design`, `Mobile-First & Responsive Layouts`,  
-  `Modern Visual Aesthetics`, `Typography & Spacing`,  
-  `Component-Based UI`, `User Flow Design`, `Visual Hierarchy`,  
-  `Consistency`, `Accessibility Best Practices`
-
-#### ⚙️ Tools & Workflow
-- **Code Editor:**  
-  `VS Code`
-
-- **Version Control & Dev Tools:**  
-  `Git`, `GitHub`, `npm`
-
-- **Deployment Platforms:**  
-  `Vercel`, `Netlify`, `GitHub Pages`
+#### 🗄️ Backend & Database (Basics)
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-10aa50?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
