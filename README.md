@@ -1,14 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Shaikh Mohammed Sahil</h1>
-<h3 align="center">🚀 Frontend Developer | 🎨 UI/UX Designer | 🌐 React Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 Frontend Developer | 🎨 UI/UX Designer</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m a passionate **Frontend Developer & UI/UX Designer**
-- 🌱 Currently building **modern, responsive, and animated websites** using React + Tailwind CSS
-- 💡 I love bringing **designs to life** — from **Figma to Pixel-Perfect Code**
+- 🔭 I’m a passionate **Full Stack & Frontend Developer** with a strong foundation in **React**, **Node.js**, and **MongoDB**
+- 🌱 Currently building **modern, responsive, and animated web applications** using React + Tailwind CSS
+- 💡 I love transforming **Figma designs into interactive, pixel-perfect user interfaces**
 - 🎓 Certified in UI/UX Design, Cybersecurity, Embedded Systems, and more
-- 💬 Ask me about `React`, `Tailwind`, `Figma`, `Framer Motion`, or `Vite`
+- 💬 Ask me about `React`, `Tailwind`, `Figma`, `Framer Motion`, `Node.js`, or `Vite`
 - 📫 Reach me: **smsahil00971@gmail.com**
 
 ---
@@ -26,6 +26,13 @@
   <img src="https://img.shields.io/badge/Framer%20Motion-EF6CFF?style=for-the-badge&logo=framer&logoColor=black" />
 </p>
 
+#### 🗄️ Backend & Database  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-10aa50?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
 #### 🎨 UI/UX Design  
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -40,30 +47,25 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
-#### 🗄️ Backend & Database (Basics)
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-10aa50?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikh-sahil&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-sahil&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=smsahil47&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsahil47&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
 
 ### 🧩 Highlight Projects
-Here are a few things I’ve built recently:
+Here are a few of my featured full-stack and frontend works:
 
-- 🔧 **[EconoCooling HVAC Website](https://www.econocooling.co.in/)** — Company site with animated HVAC-themed UI, email & WhatsApp integration  
-- 🌐 **[My Portfolio Website](https://www.smsahil.site/)** — Showcasing my frontend & UI/UX work, built with React, Tailwind, and animations  
+- 🌐 **[Evince Perfume Website](#)** — A luxurious perfume brand website built with React & Tailwind CSS, featuring elegant animations, modern UI/UX, and responsive design.
+- 🔧 **[EconoCooling HVAC Website](https://www.econocooling.co.in/)** — A professional company website with an animated HVAC-themed UI, EmailJS & WhatsApp integration.
+- 💼 **[Employee Task Tracker](https://github.com/smsahil47/employee-task-tracker)** — Full-stack CRUD app for managing employee tasks using React, Node.js, Express & MongoDB.
+- 🖥️ **[Portfolio Website](https://www.smsahil.site/)** — My personal portfolio showcasing design and development projects built with React, Tailwind & Framer Motion.
 
-
-> More coming soon... 💻✨
+> More projects coming soon... 🚀✨
 
 ---
 
@@ -77,4 +79,5 @@ Here are a few things I’ve built recently:
 ---
 
 ### ☕ Fun Fact:
-> I design like a creative, code like an engineer, and deploy like a pro. Let's build something amazing together!
+> I design like a creative, code like an engineer, and deploy like a pro.  
+> Let's build something amazing together! 🚀
